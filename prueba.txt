@@ -1,0 +1,27 @@
+5 6
+100 5
+Troya Itaca
+Troya Delos 2
+Troya Creta 8
+Delos Naxos 3
+Naxos Itaca 4
+Creta Itaca 2
+Delos Creta 1
+
+4 4
+30 10
+Troya Itaca
+Troya Samos 3
+Samos Rodas 2
+Rodas Itaca 4
+Troya Rodas 8
+
+5 6
+100 5
+Troya Itaca
+Troya Delos 2
+Troya Creta 8
+Delos Naxos 3
+Naxos Itaca 4
+Creta Itaca 2
+Delos Creta 1
