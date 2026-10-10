@@ -16,12 +16,11 @@ Samos Rodas 2
 Rodas Itaca 4
 Troya Rodas 8
 
-5 6
-100 5
-Troya Itaca
-Troya Delos 2
-Troya Creta 8
-Delos Naxos 3
-Naxos Itaca 4
-Creta Itaca 2
-Delos Creta 1
+5 4
+252 6
+Ogigia Feacia
+Ogigia Creta 14
+Creta Esparta 12
+Esparta Pilos 8
+Pilos Feacia 8
+Creta Feacia 32
